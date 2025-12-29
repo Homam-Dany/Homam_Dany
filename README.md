@@ -1,125 +1,85 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
+  <h1>Hey, I'm Homam Dany 👋</h1>
+  <h3>🚀 Future Software Engineer | Full-Stack Developer | Passionate about Clean Code</h3>
+
+  <p>
+    <a href="https://www.linkedin.com/in/homam-dany" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+    </a>
+    <a href="mailto:dany.homam@etu.uae.ac.ma" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+    </a>
+  </p>
+  
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=HomamDany.HomamDany&left_color=black&right_color=blue&left_text=Profile%20Views" />
 </div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/homam-dany" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="mailto:dany.homam@etu.uae.ac.ma" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Homam-Dany.Homam-Dany&left_color=black&right_color=green&left_text=Software%20Application%20Development%20Engineering%20Student" />
-</div>
-
-###
-
-<h1 align="center">Hey, I'm Homam 👋</h1>
-
-<h3 align="center">💻 Future Software Engineer | Passionate about Clean Code & Innovative Solutions</h3>
 
 ---
 
-### 👨‍🎓 Academic Background
+### 📖 About Me
 
-🎓 Étudiant en **Ingénierie de Développement d’Applications Informatiques** à la  
-**Faculté des Sciences et Techniques de Tanger (FSTT)** — Université Abdelmalek Essaâdi.  
+[cite_start]I am a **Software Engineering Student** at the Faculty of Sciences and Techniques of Tangier (FSTT). I focus on building scalable web applications and efficient software systems. [cite_start]I am a versatile developer, quickly adapting to new technologies and methodologies[cite: 22].
 
-🎯 Titulaire d’un **DEUST en MIP (Mathématiques, Informatique et Physique)**, une formation pluridisciplinaire alliant rigueur scientifique et logique de programmation.  
+- [cite_start]🎓 **Education**: Degree in Computer Application Development Engineering (In progress)[cite: 10, 11].
+- [cite_start]📍 **Location**: Tangier, Morocco[cite: 4].
+- [cite_start]🔍 **Current Focus**: Seeking an internship to apply my technical skills in a professional environment.
 
 ---
 
-### 👨‍💻 About Me
+### 🛠️ Technical Stack
 
+<details open>
+<summary><b>Languages & Frameworks</b></summary>
+<br>
 <p align="left">
-💡 Passionné par les technologies du développement logiciel, la conception orientée objet et les environnements open-source.<br><br>
-🌍 J’aime comprendre en profondeur le fonctionnement des systèmes et concevoir des applications performantes, structurées et évolutives.<br><br>
-🚀 Mon ambition est d’évoluer vers un profil polyvalent capable d’allier technique, créativité et innovation logicielle.
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
 </p>
+</details>
 
----
-
-### 🌱 En apprentissage
-
+<details open>
+<summary><b>Database & Tools</b></summary>
+<br>
 <p align="left">
-🔹 Programmation orientée objet : <b>C++</b>, <b>Java</b> avec la bibliothèque <b>Raylib</b> pour le développement graphique.<br>
-🔹 Programmation en <b>Python</b> (scripts, automatisation, bases du développement logiciel).<br>
-🔹 Modélisation UML avec <b>PowerDesigner</b>.<br>
-🔹 Base de données et SQL avec <b>MySQL</b>.<br>
-🔹 Systèmes d’exploitation <b>Linux</b> et réseaux informatiques.<br>
-🔹 Développement web : <b>HTML</b>, <b>CSS</b>, <b>JavaScript</b>, <b>PHP</b> et <b>Laravel</b>.<br>
-🔹 Initiation au développement <b>mobile</b> et aux <b>Edge Computing Sciences</b>.
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/UML-Model-blue?style=flat-square&logo=diagrams.net&logoColor=white" alt="UML" />
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-00BCEB?style=flat-square&logo=cisco&logoColor=white" alt="Cisco" />
 </p>
+</details>
 
 ---
 
-### 🎯 Objectifs actuels
+### 🚀 Key Projects
 
-🚀 Approfondir mes compétences en conception logicielle et en architecture d’applications.<br>
-📘 Réaliser des mini-projets pour renforcer mes acquis en POO, développement web et mobile.<br>
-💼 Préparer un **stage de fin d’études (PFE)** dans une entreprise innovante, avec un environnement technique stimulant.<br>
-🤝 Collaborer sur des projets open-source pour enrichir mes connaissances et développer mon expérience pratique.
-
----
-
-### 🛠 Languages and Tools
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="Android logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Edge Computing logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio logo" />
-</div>
+* [cite_start]**Data Center Management System** [cite: 30]
+    * [cite_start]Full-stack web application built with **Laravel/PHP** and **MySQL**[cite: 30].
+    * [cite_start]Manages resource allocation, tracking of servers, VMs, and network equipment[cite: 30].
+* [cite_start]**Traffic Simulation Engine** [cite: 31, 32]
+    * [cite_start]Core simulation development managing realistic routes, intersections, and vehicle behavior[cite: 32].
+* [cite_start]**Banking System Design** [cite: 35, 36]
+    * [cite_start]Complete modeling using **UML** for account management and transaction flows[cite: 36].
+* [cite_start]**Mobile App Development** [cite: 39]
+    * [cite_start]Currently developing a mobile application using **React Native**[cite: 39].
 
 ---
 
-### 📊 My Stats
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Homam-Dany&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="250" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Homam-Dany&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=Homam-Dany&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HomamDany&show_icons=true&theme=nord&count_private=true" alt="Homam's Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HomamDany&layout=compact&theme=nord" alt="Top Languages" />
 </div>
 
 ---
-
-### 📫 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/homam-dany" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Homam%20Dany-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:dany.homam@etu.uae.ac.ma" target="_blank">
-    <img src="https://img.shields.io/badge/Email-dany.homam@etu.uae.ac.ma-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
+  <i>"Passionate about solving complex problems through elegant code."</i>
 </p>

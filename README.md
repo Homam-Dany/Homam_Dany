@@ -29,7 +29,7 @@
 
 ### 👨‍🎓 Academic Background
 
-🎓 Étudiant en **Ingénierie de Développement d’Applications Informatiques** à la  
+🎓 Étudiant en **Licence d'Ingénierie de Développement d’Applications Informatiques** à la  
 **Faculté des Sciences et Techniques de Tanger (FSTT)** — Université Abdelmalek Essaâdi.  
 
 🎯 Titulaire d’un **DEUST en MIP (Mathématiques, Informatique et Physique)**, une formation pluridisciplinaire alliant rigueur scientifique et logique de programmation.  

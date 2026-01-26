@@ -3,11 +3,7 @@
 
   <br/>
 
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=9DC183&height=100&section=header&text=HOMAM%20DANY&fontSize=70&animation=fadeIn" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=9DC183&center=true&vCenter=true&width=500&lines=%3E_Futur_Ingénieur_Génie_Logiciel;%3E_Full-Stack_Developer;%3E_Clean_Code_Enthusiast" alt="Typing SVG" />
-  </a>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/homam-dany"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a> 
@@ -94,6 +90,4 @@ Je suis un étudiant en **Ingénierie de Développement d'Applications Informati
     <img src="https://img.shields.io/badge/OUVERT_AUX_OPPORTUNITÉS-9DC183?style=for-the-badge&logoColor=white" />
   </a>
   
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=9DC183&height=60&section=footer" />
 </div>

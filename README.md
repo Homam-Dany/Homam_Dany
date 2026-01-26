@@ -4,91 +4,68 @@
   <br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=42&pause=1000&color=9DC183&center=true&vCenter=true&width=600&lines=Hi+I'm+Homam+Dany;%3E_Futur_Ingénieur_Logiciel;%3E_Expert_Full_Stack_%26_System" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&pause=1000&color=9DC183&center=true&vCenter=true&width=600&lines=Hi+I'm+Homam+Dany;%3E_Software_Engineer_Student;%3E_Crafting_Clean_Solutions" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/homam-dany"><img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-    <a href="mailto:dany.homam@etu.uae.ac.ma"><img src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
-    <a href="https://github.com/HomamDany"><img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/homam-dany"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a> 
+    <a href="mailto:dany.homam@etu.uae.ac.ma"><img src="https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white" /></a> 
+    <a href="https://github.com/HomamDany"><img src="https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white" /></a>
   </p>
 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Homam-Dany.Homam-Dany&left_color=black&right_color=9DC183&left_text=SYSTEM_STATUS:_ONLINE" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Homam-Dany.Homam-Dany&left_color=black&right_color=9DC183&left_text=Uptime:_100%" />
 </div>
 
 ---
 
-### 🌐 [MISSION_CONTROL]
+### 🟢 SYSTEM_INFO
 
-**Homam Dany** | Étudiant en **Ingénierie de Développement d'Applications Informatiques (IDAI)** à la **FST de Tanger**.
+> **"Simplicity is the ultimate sophistication."**
 
-> *"Transformer la complexité algorithmique en architectures logicielles élégantes et performantes."*
+Je suis **Homam Dany**, futur ingénieur en **Génie Logiciel** (IDAI) à la **FST de Tanger**. Mon approche repose sur deux piliers : la robustesse de l'architecture et la clarté du code.
 
-* 📍 **Localisation :** Tanger, Maroc
-* 🎓 **Formation :** Cycle Ingénieur - Université Abdelmalek Essaâdi
-* 🚀 **Projet Phare :** Développement du simulateur haute performance **TrafficCore**.
-* 🎯 **Objectif :** Décrocher un **Stage PFE 2026** (Innovation & R&D).
+* **Expertise :** C++, Java, Full-Stack PHP (Laravel).
+* **Location :** Tanger, Maroc 🇲🇦
+* **Status :** À la recherche d'un **PFE 2026**.
 
 ---
 
-### 🛠️ [TECHNICAL_ARSENAL]
+### 🛠️ ARSENAL_TECH
 
-<div align="center">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,php,laravel,js,react,mysql,linux,git,vscode,tailwind,html,css,github,android,postman&perline=8" />
-</div>
+</p>
 
 ---
 
-### 📂 [PROJECTS_RELIQUARY]
+### 🚀 RECENT_DEPLOYMENTS
 
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://capsule-render.vercel.app/render?type=soft&color=9DC183&height=80&section=header&text=🏗️%20DATA%20CENTER%20OPS&fontSize=20" />
-        <p align="center"><i>Gestion intelligente d'infrastructures critiques.</i><br/><b>[Laravel / MySQL / PHP]</b></p>
-      </td>
-      <td width="50%">
-        <img src="https://capsule-render.vercel.app/render?type=soft&color=181717&height=80&section=header&text=🚦%20TRAFFIC%20CORE%203D&fontSize=20&fontColor=9DC183" />
-        <p align="center"><i>Simulation de flux urbains avec gestion de collisions.</i><br/><b>[C++ / Raylib / POO]</b></p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <img src="https://capsule-render.vercel.app/render?type=soft&color=181717&height=80&section=header&text=🏦%20BANKING%20UML&fontSize=20&fontColor=9DC183" />
-        <p align="center"><i>Design complet de systèmes transactionnels.</i><br/><b>[Analyse UML / Patterns]</b></p>
-      </td>
-      <td width="50%">
-        <img src="https://capsule-render.vercel.app/render?type=soft&color=9DC183&height=80&section=header&text=🐧%20SYSADMIN%20LABS&fontSize=20" />
-        <p align="center"><i>Automatisation système et configuration réseaux.</i><br/><b>[Linux / Shell / Cisco]</b></p>
-      </td>
-    </tr>
-  </table>
-</div>
+**🏗️ Data Center Management** > Plateforme Laravel de monitoring d'infrastructures critiques.  
+`PHP` `MySQL` `Tailwind`
+
+**🚦 TrafficCore 3D** > Moteur de simulation de flux urbains en temps réel.  
+`C++` `Raylib` `Maths`
+
+**🏦 Banking Logic** > Modélisation UML complète de systèmes transactionnels.  
+`UML` `Architecture` `Security`
 
 ---
 
-### 📊 [CORE_METRICS]
+### 📊 ANALYTICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Homam-Dany&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=9DC183&icon_color=9DC183&bg_color=0d1117&text_color=ffffff" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Homam-Dany&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=9DC183&bg_color=0d1117&text_color=ffffff" height="175" />
-  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Homam-Dany&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=9DC183&icon_color=9DC183&bg_color=0d1117&text_color=ffffff" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Homam-Dany&layout=compact&theme=vision-friendly-dark&hide_border=true&title_color=9DC183&bg_color=0d1117&text_color=ffffff" height="170" />
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Homam-Dany&theme=vision-friendly-dark&hide_border=true&stroke=9DC183&ring=9DC183&fire=9DC183&background=0d1117" width="100%" />
 </div>
 
 ---
 
-### 🤝 [INITIATE_CONTACT]
+### 🤝 CONTACT_INITIATE
 
 <div align="center">
-  <p>En recherche active d'opportunités stimulantes pour mon <b>PFE 2026</b>.</p>
-  
   <a href="https://www.linkedin.com/in/homam-dany">
-    <img src="https://img.shields.io/badge/OPEN_FOR_COLLABORATION-9DC183?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/AVAILABLE_FOR_PFE_2026-9DC183?style=flat-square&logoColor=white" />
   </a>
-  
-  <br/><br/>
-  
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=9DC183&height=80&section=footer" />
 </div>

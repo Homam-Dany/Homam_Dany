@@ -3,33 +3,37 @@
 
   <br/>
 
+  <h1><kbd> HOMAM DANY </kbd></h1>
 
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/homam-dany"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a> 
-    <a href="mailto:dany.homam@etu.uae.ac.ma"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a> 
-    <a href="https://github.com/HomamDany"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <p>
+    <b>Futur Ingénieur en Génie Logiciel | Passionné par le Clean Code</b>
   </p>
 
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Homam-Dany.Homam-Dany&left_color=black&right_color=9DC183&left_text=SYSTEM_ACTIVE" />
+  <p>
+    <a href="https://www.linkedin.com/in/homam-dany"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=for-the-badge&logo=linkedin" /></a> 
+    <a href="mailto:dany.homam@etu.uae.ac.ma"><img src="https://img.shields.io/static/v1?label=&message=Email&color=D14836&style=for-the-badge&logo=gmail" /></a> 
+    <a href="https://github.com/HomamDany"><img src="https://img.shields.io/static/v1?label=&message=GitHub&color=181717&style=for-the-badge&logo=github" /></a>
+  </p>
+
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Homam-Dany.Homam-Dany&left_color=black&right_color=9DC183&left_text=STATUS:_ONLINE" />
 </div>
 
 ---
 
 ### ⚡ À propos de moi
 
-> "Transformer des idées complexes en code élégant et performant."
+> "L'art de transformer la logique en solutions concrètes."
 
-Je suis un étudiant en **Ingénierie de Développement d'Applications Informatiques (IDAI)** à la **FST de Tanger**. Passionné par la résolution de problèmes, je me spécialise dans la création d'architectures logicielles robustes et évolutives.
+Je suis un étudiant en **Ingénierie de Développement d'Applications Informatiques (IDAI)** à la **FST de Tanger**. Mon focus est mis sur la performance, la sécurité et la scalabilité des systèmes.
 
 * 📍 **Localisation :** Tanger, Maroc
 * 🎓 **Formation :** Cycle Ingénieur - Université Abdelmalek Essaâdi
-* 🚀 **Projet Actuel :** Optimisation du moteur de simulation **TrafficCore**.
-* 🎯 **Recherche :** Stage de Fin d'Études (PFE) pour 2026.
+* 🚀 **Focus Actuel :** Développement C++ (Simulation) & Laravel (Ecosystème Web)
+* 🎯 **Recherche :** Stage de Fin d'Études (PFE) pour 2026
 
 ---
 
-### 🛠️ Arsenal Technologique
+### 🛠️ Stack Technologique
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,php,laravel,js,react,mysql,linux,git,vscode,tailwind,html,css,github,android,postman&perline=8" />
@@ -42,23 +46,23 @@ Je suis un étudiant en **Ingénierie de Développement d'Applications Informati
 <div align="center">
   <table border="0">
     <tr>
-      <td width="50%">
-        <h3 align="center">🏗️ Data Center Management</h3>
-        <p align="center">Gestion intelligente des infrastructures (VM, serveurs, inventaire) développée avec <b>Laravel & MySQL</b>.</p>
+      <td width="50%" align="center">
+        <h3>🏗️ Data Center Ops</h3>
+        <p>Gestion d'infrastructures serveurs et VM.<br/><b>Laravel & MySQL</b></p>
       </td>
-      <td width="50%">
-        <h3 align="center">🚦 TrafficCore 3D</h3>
-        <p align="center">Simulation de flux de trafic urbain avec gestion des collisions et intersections en <b>C++ / Raylib</b>.</p>
+      <td width="50%" align="center">
+        <h3>🚦 TrafficCore 3D</h3>
+        <p>Simulation de flux urbains haute précision.<br/><b>C++ & Raylib</b></p>
       </td>
     </tr>
     <tr>
-      <td width="50%">
-        <h3 align="center">🏦 Architecture Bancaire</h3>
-        <p align="center">Modélisation complète des flux financiers et sécurité des transactions via <b>Diagrammes UML</b>.</p>
+      <td width="50%" align="center">
+        <h3>🏦 Banking Architecture</h3>
+        <p>Design de systèmes transactionnels sécurisés.<br/><b>Modélisation UML</b></p>
       </td>
-      <td width="50%">
-        <h3 align="center">🐧 SysAdmin & Network</h3>
-        <p align="center">Automatisation système et configuration réseaux avancée sous environnement <b>Linux</b>.</p>
+      <td width="50%" align="center">
+        <h3>🐧 SysAdmin & Networks</h3>
+        <p>Automatisation et configuration réseaux.<br/><b>Linux Environment</b></p>
       </td>
     </tr>
   </table>
@@ -84,10 +88,9 @@ Je suis un étudiant en **Ingénierie de Développement d'Applications Informati
 ### 🤝 Contact & Collaboration
 
 <div align="center">
-  <p>Intéressé par mon profil pour un projet ou un stage ?</p>
+  <p>Collaborons sur vos futurs projets d'ingénierie.</p>
   
   <a href="https://www.linkedin.com/in/homam-dany">
-    <img src="https://img.shields.io/badge/OUVERT_AUX_OPPORTUNITÉS-9DC183?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/OPEN_FOR_INTERNSHIP_2026-9DC183?style=for-the-badge&logoColor=white" />
   </a>
-  
 </div>

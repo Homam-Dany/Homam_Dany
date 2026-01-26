@@ -1,39 +1,41 @@
 <div align="center">
-  <img height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmd2bW1yOGszMHNjNmFtY2toYzhzcDVrcm52cmRkNGY0b2NpOTIzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" />
+  <img height="280" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmd2bW1yOGszMHNjNmFtY2toYzhzcDVrcm52cmRkNGY0b2NpOTIzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
   <br/>
 
-  <h1><kbd> HOMAM DANY </kbd></h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1000&color=9DC183&center=true&vCenter=true&width=600&lines=Hi,+I'm+Homam+Dany;%3E_Software_Engineer_Student;%3E_Building_Future_Systems" alt="Typing SVG" />
+  </a>
 
-  <p>
-    <b>Futur Ingénieur en Génie Logiciel | Passionné par le Clean Code</b>
+  <br/>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/homam-dany"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+    <a href="mailto:dany.homam@etu.uae.ac.ma"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+    <a href="https://github.com/HomamDany"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
 
-  <p>
-    <a href="https://www.linkedin.com/in/homam-dany"><img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=for-the-badge&logo=linkedin" /></a> 
-    <a href="mailto:dany.homam@etu.uae.ac.ma"><img src="https://img.shields.io/static/v1?label=&message=Email&color=D14836&style=for-the-badge&logo=gmail" /></a> 
-    <a href="https://github.com/HomamDany"><img src="https://img.shields.io/static/v1?label=&message=GitHub&color=181717&style=for-the-badge&logo=github" /></a>
-  </p>
-
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Homam-Dany.Homam-Dany&left_color=black&right_color=9DC183&left_text=STATUS:_ONLINE" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Homam-Dany.Homam-Dany&left_color=black&right_color=9DC183&left_text=ESTABLISHED_CONNECTION" />
 </div>
 
 ---
 
-### ⚡ À propos de moi
+### 📂 [SYSTEM_OVERVIEW]
 
-> "L'art de transformer la logique en solutions concrètes."
+**Homam Dany** | Étudiant en Cycle d'Ingénieur à la **FST de Tanger** (IDAI).
 
-Je suis un étudiant en **Ingénierie de Développement d'Applications Informatiques (IDAI)** à la **FST de Tanger**. Mon focus est mis sur la performance, la sécurité et la scalabilité des systèmes.
+> *"Transformer la complexité algorithmique en architectures logicielles élégantes."*
 
-* 📍 **Localisation :** Tanger, Maroc
-* 🎓 **Formation :** Cycle Ingénieur - Université Abdelmalek Essaâdi
-* 🚀 **Focus Actuel :** Développement C++ (Simulation) & Laravel (Ecosystème Web)
-* 🎯 **Recherche :** Stage de Fin d'Études (PFE) pour 2026
+Passionné par le **Génie Logiciel** et le **Clean Code**, je me spécialise dans le développement d'applications robustes, allant de la simulation système en **C++** au développement Full-Stack avec **Laravel**. Mon objectif est de repousser les limites de l'optimisation.
+
+* 📍 **Base :** Tanger, Maroc
+* 🎓 **Formation :** Ingénierie de Développement d'Applications Informatiques
+* 🎯 **Objectif :** Stage de Fin d'Études (PFE) 2026
+* ⚙️ **Focus :** POO, Architecture Web, Modélisation UML
 
 ---
 
-### 🛠️ Stack Technologique
+### 🛠️ [TECHNICAL_STACK]
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,php,laravel,js,react,mysql,linux,git,vscode,tailwind,html,css,github,android,postman&perline=8" />
@@ -41,28 +43,28 @@ Je suis un étudiant en **Ingénierie de Développement d'Applications Informati
 
 ---
 
-### 📂 Projets Majeurs
+### 🚀 [MISSION_LOGS]
 
 <div align="center">
   <table border="0">
     <tr>
-      <td width="50%" align="center">
-        <h3>🏗️ Data Center Ops</h3>
-        <p>Gestion d'infrastructures serveurs et VM.<br/><b>Laravel & MySQL</b></p>
+      <td width="50%">
+        <h3 align="center">🏗️ Data Center Ops</h3>
+        <p align="center">Application Web de gestion d'infrastructures critiques. <br/> <b>[Laravel / MySQL / PHP]</b></p>
       </td>
-      <td width="50%" align="center">
-        <h3>🚦 TrafficCore 3D</h3>
-        <p>Simulation de flux urbains haute précision.<br/><b>C++ & Raylib</b></p>
+      <td width="50%">
+        <h3 align="center">🚦 TrafficCore 3D</h3>
+        <p align="center">Simulation haute performance de flux urbains. <br/> <b>[C++ / Raylib]</b></p>
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center">
-        <h3>🏦 Banking Architecture</h3>
-        <p>Design de systèmes transactionnels sécurisés.<br/><b>Modélisation UML</b></p>
+      <td width="50%">
+        <h3 align="center">🏦 Banking UML</h3>
+        <p align="center">Conception sécurisée de systèmes transactionnels. <br/> <b>[UML / Design Patterns]</b></p>
       </td>
-      <td width="50%" align="center">
-        <h3>🐧 SysAdmin & Networks</h3>
-        <p>Automatisation et configuration réseaux.<br/><b>Linux Environment</b></p>
+      <td width="50%">
+        <h3 align="center">🐧 SysAdmin Labs</h3>
+        <p align="center">Automatisation et gestion de réseaux sous Unix. <br/> <b>[Linux / Shell / Cisco]</b></p>
       </td>
     </tr>
   </table>
@@ -70,7 +72,7 @@ Je suis un étudiant en **Ingénierie de Développement d'Applications Informati
 
 ---
 
-### 📊 Statistiques GitHub
+### 📊 [PERFORMANCE_INSIGHTS]
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Homam-Dany&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=9DC183&icon_color=9DC183&bg_color=0d1117&text_color=ffffff" height="170" />
@@ -85,12 +87,12 @@ Je suis un étudiant en **Ingénierie de Développement d'Applications Informati
 
 ---
 
-### 🤝 Contact & Collaboration
+### 🤝 [INITIATE_COLLABORATION]
 
 <div align="center">
-  <p>Collaborons sur vos futurs projets d'ingénierie.</p>
+  <p>En recherche active d'opportunités stimulantes pour mon <b>PFE 2026</b>.</p>
   
   <a href="https://www.linkedin.com/in/homam-dany">
-    <img src="https://img.shields.io/badge/OPEN_FOR_INTERNSHIP_2026-9DC183?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/OPEN_FOR_PROJECTS-9DC183?style=for-the-badge&logoColor=white" />
   </a>
 </div>

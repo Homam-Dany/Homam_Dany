@@ -1,82 +1,94 @@
 <div align="center">
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmd2bW1yOGszMHNjNmFtY2toYzhzcDVrcm52cmRkNGY0b2NpOTIzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" />
-</div>
 
-<div align="center">
-  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Homam Dany</h1>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Full+Stack+Laravel+Developer;System+Simulation+Enthusiast;Clean+Code+Advocate" alt="Typing SVG" />
-  </a>
+  <h1>🚀 Homam Dany</h1>
+  <p><strong>Futur Ingénieur en Génie Logiciel | Full-Stack Developer | Passionné d'Architecture Système</strong></p>
 
-  <p>
+  <div>
     <a href="https://www.linkedin.com/in/homam-dany" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
     </a>
     <a href="mailto:dany.homam@etu.uae.ac.ma">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
     </a>
-  </p>
+    <a href="https://github.com/HomamDany">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+    </a>
+  </div>
+
+  <br />
+
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Homam-Dany.Homam-Dany&left_color=black&right_color=9DC183&left_text=Software%20Engineer%20Student" />
 </div>
 
 ---
 
-### 🎓 Parcours & Vision
+### 📋 À propos de moi
 
-Actuellement étudiant en **Licence d'Ingénierie de Développement d'Applications Informatiques (IDAI)** à la **Faculté des Sciences et Techniques de Tanger (FSTT)**. Mon approche du développement repose sur la rigueur acquise lors de mon **DEUST en MIP** et une volonté constante de concevoir des architectures logicielles évolutives.
+Je suis un étudiant passionné en **Licence d'Ingénierie de Développement d'Applications Informatiques (IDAI)** à la **FST de Tanger**. Spécialisé dans la conception de solutions logicielles robustes, je m'efforce d'écrire un code propre, évolutif et performant.
 
-Spécialisé dans le développement d'applications robustes, je m'efforce de transformer des concepts techniques complexes en solutions logicielles intuitives et performantes.
-
----
-
-### 💻 Expertise Technique
-
-#### ⚡ Backend & Logiciel
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-#### 🌐 Web & Mobile
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### ⚙️ Systèmes & Outils
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-![UML](https://img.shields.io/badge/UML-Modelling-005571?style=for-the-badge) 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+* 🌍 Basé à **Tanger, Maroc**.
+* 🎓 Diplômé d'un **DEUST en MIP** (Mathématiques, Informatique et Physique).
+* 🔍 Actuellement à la recherche d'un **Stage de Fin d'Études (PFE) 2026**.
+* ⚡ Intérêt profond pour la **POO**, l'**Architecture Web** et les **Systèmes Temps Réel**.
 
 ---
 
-### 🛠️ Projets de Référence
+### 🛠 Stack Technique
 
-> **Data Center Management System**
-> * Conception d'une plateforme Web sous **Laravel** pour le suivi et l'allocation des ressources informatiques (Serveurs, VM).
-> * *Focus :* Architecture MVC, gestion de base de données complexe.
-
-> **Traffic Simulation Core**
-> * Développement d'un moteur de simulation de trafic routier avec gestion dynamique des intersections.
-> * *Focus :* Programmation Orientée Objet avancée en **C++**.
-
-> **Architecture & Design Logiciel**
-> * Modélisation UML complète de systèmes bancaires et de messageries électroniques.
-> * *Focus :* Conception de diagrammes de structure et de comportement.
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <strong>Langages</strong><br />
+      <img src="https://skillicons.dev/icons?i=cpp,java,python,php,js" />
+    </td>
+    <td align="center" width="33%">
+      <strong>Frameworks & Web</strong><br />
+      <img src="https://skillicons.dev/icons?i=laravel,react,html,css,tailwind" />
+    </td>
+    <td align="center" width="33%">
+      <strong>Outils & Systèmes</strong><br />
+      <img src="https://skillicons.dev/icons?i=mysql,linux,git,vscode" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 Activité GitHub
+### 🚀 Projets Phares
+
+#### 🏗️ Data Center Resource Manager
+Application Web complète sous **Laravel & MySQL** pour la gestion critique d'infrastructures informatiques (Serveurs, VM, Réseaux).
+* Allocation dynamique et suivi des réservations.
+* Monitoring des équipements en temps réel.
+
+#### 🚦 TrafficCore Simulation
+Moteur de simulation de trafic urbain développé en **C++ & Raylib**.
+* Gestion des graphes routiers et intersections réalistes.
+* Physique des véhicules et optimisation des flux.
+
+#### 🏦 Conception de Système Bancaire
+Modélisation UML complète incluant la gestion des comptes et d'une messagerie électronique sécurisée.
+* Analyse rigoureuse via UML, Merise et PowerDesigner.
+
+---
+
+### 📊 Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Homam-Dany&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Homam-Dany&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Homam-Dany&show_icons=true&theme=nord&count_private=true&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Homam-Dany&layout=compact&theme=nord&hide_border=true" height="170" />
 </div>
 
-<br>
+---
+
+### 🤝 Travaillons ensemble !
+
+Je suis ouvert aux opportunités de stages et aux collaborations sur des projets open-source innovants.
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=33CCFF&height=100&section=footer" />
+  <p><strong>N'hésitez pas à me contacter pour toute proposition technique.</strong></p>
+  <a href="https://www.linkedin.com/in/homam-dany">
+    <img src="https://img.shields.io/badge/-Me%20Contacter-9DC183?style=for-the-badge" />
+  </a>
 </div>

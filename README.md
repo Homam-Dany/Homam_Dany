@@ -4,7 +4,8 @@
   <br/><br/>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=32CD32&center=true&vCenter=true&width=800&lines=Salut,+je+suis+Homam+Dany;Futur+Ing%C3%A9nieur+Logiciel;Passionn%C3%A9+par+le+Clean+Code+et+l'Innovation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=32CD32&center=true&vCenter=true&width=800&lines=Salut,+je+suis+Homam+Dany;Futur+Ing%C3%A9nieur+Logiciel;
+      Pasiionn%C3%A9+par+le+Clean+Code+et+l'Innovation" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -18,7 +19,7 @@
     <a href="mailto:dany.homam@etu.uae.ac.ma" target="_blank">
       <img src="https://img.shields.io/badge/Email-Contactez_moi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
-    <a href="https://github.com/HomamDany/Homam_Dany" target="_blank">
+    <a href="https://github.com/Homam-Dany/Homam_Dany" target="_blank">
       <img src="https://img.shields.io/badge/CV-Voir_Mon_Parcours-black?style=for-the-badge&logo=read-the-docs&logoColor=32CD32" />
     </a>
   </p>

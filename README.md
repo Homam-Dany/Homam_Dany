@@ -1,78 +1,91 @@
 <div align="center">
   <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmd2bW1yOGszMHNjNmFtY2toYzhzcDVrcm52cmRkNGY0b2NpOTIzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" />
 
-  <h1 align="center">✨ Homam Dany</h1>
-  <p align="center">
-    <strong>Futur Ingénieur Logiciel | Passionné par le Clean Code & l'Innovation</strong>
+  <h1>⚡ Homam Dany</h1>
+  <p>🚀 <b>Future Software Engineer | Full-Stack Developer | Tech Enthusiast</b></p>
+
+  <p>
+    <a href="https://www.linkedin.com/in/homam-dany" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:dany.homam@etu.uae.ac.ma"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://github.com/HomamDany"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
 
-  <p align="center">
-    <a href="https://www.linkedin.com/in/homam-dany" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:dany.homam@etu.uae.ac.ma">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://github.com/HomamDany">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </p>
-
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Homam-Dany.Homam-Dany&left_color=black&right_color=9DC183&left_text=Software%20Engineer%20Student" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Homam-Dany.Homam-Dany&left_color=black&right_color=9DC183&left_text=Portfolio%20Visitors" />
 </div>
 
 ---
 
-### 🚀 Présentation
-[cite_start]Étudiant en **Licence d'Ingénierie de Développement d'Applications Informatiques (IDAI)** à la **FST de Tanger**[cite: 8, 10]. [cite_start]Je combine rigueur scientifique et créativité technique pour concevoir des systèmes performants et évolutifs.
+### 📑 À propos
 
-* [cite_start]📍 **Localisation :** Tanger, Maroc [cite: 4]
-* [cite_start]🎓 **Formation :** DEUST en MIP (Maths, Info, Physique) & Licence IDAI [cite: 10, 12]
-* [cite_start]🎯 **Objectif :** Stage de Fin d'Études (PFE) 2026 
+Je suis un développeur passionné par la résolution de problèmes complexes et l'architecture logicielle. Actuellement en **Licence IDAI** à la **FST de Tanger**, je me spécialise dans la création d'applications robustes avec un focus sur le **Clean Code**.
+
+* 🎓 **Formation** : Licence Ingénierie de Développement d'Applications Informatiques
+* 🏢 **Disponibilité** : Stage de Fin d'Études (PFE) — Printemps 2026
+* 🔭 **Focus Actuel** : Architecture Laravel, Systèmes Distribués & C++ Performance
 
 ---
 
-### 🛠️ Expertise Technique
+### 💻 Stack Technologique
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,php,js,laravel,react,mysql,linux,git,vscode,tailwind&theme=light" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,php,js,laravel,react,mysql,linux,git,tailwind,vscode&perline=6" />
 </div>
 
-| **Domaine** | **Technologies** |
-| :--- | :--- |
-| **Backend** | [cite_start]PHP (Laravel), Java, C++, Python [cite: 18, 20, 30] |
-| **Frontend** | [cite_start]HTML5, CSS3, JavaScript, React Native [cite: 18, 39] |
-| **Systèmes** | [cite_start]Linux (Unix), Réseaux, Cisco Packet Tracer [cite: 18, 38, 39] |
-| **Modélisation** | [cite_start]UML (PowerDesigner), Merise, SQL [cite: 19, 20, 34, 35] |
+<br/>
+
+<table align="center">
+  <tr>
+    <td align="left"><b>Backend</b></td>
+    <td><code>PHP (Laravel)</code>, <code>Java</code>, <code>C++</code>, <code>Python</code></td>
+  </tr>
+  <tr>
+    <td align="left"><b>Frontend</b></td>
+    <td><code>JavaScript</code>, <code>React Native</code>, <code>Tailwind CSS</code></td>
+  </tr>
+  <tr>
+    <td align="left"><b>Database & Tools</b></td>
+    <td><code>MySQL</code>, <code>Linux/Unix</code>, <code>UML</code>, <code>Docker</code></td>
+  </tr>
+</table>
 
 ---
 
-### 📂 Projets Sélectionnés
+### 🛠️ Projets Majeurs
 
-#### 🌐 **Data Center Manager**
-[cite_start]Développement d'une plateforme sous **Laravel** pour la gestion complète d'un Data Center : serveurs, VM et équipements réseau[cite: 30].
+> [!TIP]
+> #### 🏢 Data Center Management System
+> **Laravel & MySQL** | Plateforme de gestion des ressources critiques (Serveurs, VM, Réseaux).
+> - *Impact :* Optimisation de l'allocation des ressources et monitoring en temps réel.
 
-#### 🚦 **TrafficCore (C++ Simulation)**
-Cœur de simulation de trafic urbain avec **Raylib**. [cite_start]Gestion réaliste des intersections, des routes et du comportement des véhicules[cite: 32].
+> [!IMPORTANT]
+> #### 🚦 TrafficCore Simulation
+> **C++ & Raylib** | Simulation graphique avancée de flux urbains.
+> - *Technique :* Algorithmes de décision pour les intersections et modélisation physique des véhicules.
 
-#### 🏦 **Conception UML Bancaire**
-[cite_start]Modélisation de bout en bout d'un système bancaire incluant les transactions, la gestion des comptes et la messagerie[cite: 36, 37].
+> [!NOTE]
+> #### 🏦 Banking System Architecture
+> **UML & Design Patterns** | Conception complète d'un système bancaire sécurisé.
+> - *Focus :* Sécurité des transactions et intégrité des données.
 
 ---
 
-### 📊 Activité GitHub
+### 📈 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Homam-Dany&show_icons=true&theme=vue-dark&count_private=true&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Homam-Dany&layout=compact&theme=vue-dark&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Homam-Dany&show_icons=true&theme=transparent&count_private=true&hide_border=true&title_color=9DC183&icon_color=9DC183&text_color=ffffff" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Homam-Dany&layout=compact&theme=transparent&hide_border=true&title_color=9DC183&text_color=ffffff" height="170" />
 </div>
 
 ---
 
-### 📫 Me contacter
+### 📫 Let's connect !
+
 <div align="center">
-  <p>En recherche active d'un environnement stimulant pour mon <strong>PFE 2026</strong>.</p>
-  <a href="mailto:dany.homam@etu.uae.ac.ma">
-    <img src="https://img.shields.io/badge/Contactez--moi-9DC183?style=for-the-badge" />
+  <p>Je suis toujours ouvert aux nouvelles opportunités et aux collaborations passionnantes.</p>
+  <a href="https://www.linkedin.com/in/homam-dany">
+    <b>[ CONSULTER MON PROFIL LINKEDIN ]</b>
   </a>
 </div>
+
+<br/>
+<p align="center">© 2026 Homam Dany — Built with passion 💻</p>

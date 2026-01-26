@@ -1,103 +1,83 @@
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmd2bW1yOGszMHNjNmFtY2toYzhzcDVrcm52cmRkNGY0b2NpOTIzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" style="border-radius: 8px; box-shadow: 0px 0px 30px rgba(0,0,0,0.5);"/>
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmd2bW1yOGszMHNjNmFtY2toYzhzcDVrcm52cmRkNGY0b2NpOTIzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"  />
+</div>
 
-  <br/><br/>
-
+<div align="center">
+  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey, I'm Homam Dany</h1>
+  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&lines=Salut,+je+suis+Homam+Dany;Futur+Ing%C3%A9nieur+Logiciel;Passionn%C3%A9+d'Architecture+et+Clean+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Full+Stack+Laravel+Developer;C%2B%2B+%26+Java+Enthusiast;Passionate+about+Clean+Code" alt="Typing SVG" />
   </a>
 
   <p>
-    <a href="https://www.linkedin.com/in/homam-dany-2047a7189" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connectons_Nous-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <a href="https://www.linkedin.com/in/homam-dany" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-    <a href="mailto:dany.homam@etu.uae.ac.ma" target="_blank">
-      <img src="https://img.shields.io/badge/Email-Contactez_Moi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://github.com/HomamDany/Homam_Dany" target="_blank">
-      <img src="https://img.shields.io/badge/CV-Voir_Mon_Parcours-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+    <a href="mailto:dany.homam@etu.uae.ac.ma">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
+
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Homam-Dany.Homam-Dany&left_color=black&right_color=green&left_text=Portfolio+Visitors" />
 </div>
 
 ---
 
-<h2 align="center">⚡ À Propos de Moi</h2>
+### 👨‍💻 À Propos de Moi
 
-<p align="center">
-  Actuellement étudiant en <b>Licence d'Ingénierie de Développement d'Applications Informatiques (IDAI)</b> à la <b>FST Tanger</b>.<br>
-  Je combine rigueur scientifique (Maths/Physique) et créativité pour concevoir des architectures logicielles robustes et évolutives.
-</p>
+Je suis **Homam Dany**, étudiant en **Ingénierie de Développement d'Applications Informatiques** à la **FST de Tanger**. Passionné par la résolution de problèmes complexes et la création d'architectures logicielles propres, je m'épanouis dans le développement Full-Stack et la simulation système.
 
-<div align="center">
-  <table border="0" width="90%">
-    <tr>
-      <td width="50%" valign="top">
-        <h3>🚀 Objectifs Actuels</h3>
-        <ul>
-          <li>Recherche active d'un <b>Stage de Fin d'Études (PFE)</b>.</li>
-          <li>Focus : <b>Full-Stack (Laravel/React)</b> & <b>System Programming (C++)</b>.</li>
-          <li>Localisation : <b>Tanger, Maroc</b> 🇲🇦.</li>
-        </ul>
-      </td>
-      <td width="50%" valign="top">
-        <h3>🧠 Soft Skills</h3>
-        <ul>
-          <li><b>Esprit Analytique</b> & Résolution de problèmes.</li>
-          <li><b>Adaptabilité</b> aux nouvelles technologies.</li>
-          <li>Langues : <b>Arabe</b>, <b>Français</b>, <b>Anglais</b>.</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
+- 🌍 Basé à : **Tanger, Maroc**
+- 🎓 **Formation :** Licence IDAI (En cours) & DEUST MIP (Mathématiques, Informatique et Physique)
+- 🚀 **Objectif :** Décrocher un stage de fin d'études pour relever de nouveaux défis techniques
+
+---
+
+### 🛠️ Mon Arsenal Technique
+
+<div align="left">
+
+| Catégorie | Outils & Langages |
+| :--- | :--- |
+| **Backend & Logiciel** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Frontend & Mobile** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
+| **Données & Design** | ![SQL](https://img.shields.io/badge/SQL-005C84?style=flat-square&logo=mysql&logoColor=white) ![UML](https://img.shields.io/badge/Modélisation-UML-blue?style=flat-square) ![Merise](https://img.shields.io/badge/Méthode-Merise-orange?style=flat-square) |
+| **Système & Réseau** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Packet Tracer](https://img.shields.io/badge/Cisco-Networking-005C84?style=flat-square&logo=cisco&logoColor=white) |
+
 </div>
 
 ---
 
+### 📂 Projets Phares
+
+#### 🏗️ Data Center Management App
+[cite_start]Application Web robuste permettant de gérer la réservation et l'allocation des ressources informatiques (serveurs, VM, baies).
+- **Tech Stack :** Laravel, PHP, MySQL.
+
+#### 🚗 TrafficCore - Simulation de Trafic
+[cite_start]Développement d'un cœur de simulation de trafic réaliste avec gestion dynamique des routes et des intersections.
+- **Tech Stack :** C++, Raylib.
+
+#### 💳 Système Bancaire & Messagerie
+[cite_start]Conception et modélisation complète d'un système bancaire et d'une messagerie électronique via UML[cite: 36, 37].
+
+---
+
+### 📊 Mes Statistiques GitHub
+
 <div align="center">
-  <h2>🛠️ Arsenal Technologique</h2>
-  <br>
-  
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,php,laravel,react,js,html,css&perline=9&theme=dark" />
-  
-  <br/><br/>
-  
-  <img src="https://skillicons.dev/icons?i=mysql,linux,vscode,idea,github,git,bash&perline=7&theme=dark" />
-  
-  <p><i>+ UML (PowerDesigner), Merise, Cisco Packet Tracer, Raylib</i></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Homam-Dany&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Homam-Dany&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="180" />
 </div>
 
 ---
 
-<h2>💻 Projets Réalisés</h2>
-
-| Projet | Description | Stack Technique |
-| :--- | :--- | :--- |
-| **🌐 Gestion Data Center** | Application complète pour gérer le cycle de vie des ressources (VM, Serveurs, Réseaux) et les réservations. | `Laravel` `PHP` `MySQL` |
-| **🚗 TrafficCore 3D** | Moteur de simulation de trafic routier réaliste. Gestion des routes, intersections et IA des véhicules. | `C++` `Raylib` `Graph Theory` |
-| **📱 Mobile App** | Développement d'une application mobile moderne et performante (Projet en cours). | `React Native` `JS` `Mobile` |
-| **🏦 Systèmes Complexes** | Conception structurelle de systèmes bancaires et de messagerie électronique. | `UML` `Merise` `SQL` |
-
----
-
-<h2>🎓 Parcours Académique</h2>
-
-* **En cours** : Licence **IDAI** (Ingénierie de Dev. d'Applications) — *FST Tanger*
-* **2022 - 2025** : DEUST **MIP** (Maths, Info, Physique) — *FST Tanger*
-* **2021 - 2022** : Baccalauréat **Sc. Physiques** (Mention Très Bien) — *Option Française*
-
----
+### 🗣️ Langues
+- [cite_start]**Arabe :** Maternelle [cite: 41]
+- [cite_start]**Français :** Opérationnel [cite: 42]
+- [cite_start]**Anglais :** Intermédiaire [cite: 43]
 
 <div align="center">
-  <h2>📈 Activité GitHub</h2>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Homam-Dany&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Homam-Dany&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160" />
-  
-  <br/><br/>
-  
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Homam-Dany.Homam-Dany&left_color=black&right_color=2ea44f&left_text=Visiteurs" />
-  
-  <br/>
-  <p><i>"Transformer des idées complexes en code simple et efficace."</i></p>
+  <p><i>"The best way to predict the future is to invent it."</i></p>
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" />
 </div>

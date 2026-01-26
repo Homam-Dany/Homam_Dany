@@ -1,12 +1,12 @@
 <div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmd2bW1yOGszMHNjNmFtY2toYzhzcDVrcm52cmRkNGY0b2NpOTIzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"  />
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmd2bW1yOGszMHNjNmFtY2toYzhzcDVrcm52cmRkNGY0b2NpOTIzZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" />
 </div>
 
 <div align="center">
-  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey, I'm Homam Dany</h1>
+  <h1><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Homam Dany</h1>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=33CCFF&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Full+Stack+Laravel+Developer;C%2B%2B+%26+Java+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D1FF&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Full+Stack+Laravel+Developer;System+Simulation+Enthusiast;Clean+Code+Advocate" alt="Typing SVG" />
   </a>
 
   <p>
@@ -17,68 +17,66 @@
       <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
   </p>
-
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Homam-Dany.Homam-Dany&left_color=black&right_color=green&left_text=Profile+Views" />
 </div>
 
 ---
 
-### 🚀 À Propos de Moi
+### 🎓 Parcours & Vision
 
-Actuellement en **Licence d'Ingénierie de Développement d'Applications Informatiques (IDAI)** à la **FST de Tanger**, je suis un futur ingénieur logiciel passionné par l'architecture propre et les technologies innovantes. 
+Actuellement étudiant en **Licence d'Ingénierie de Développement d'Applications Informatiques (IDAI)** à la **Faculté des Sciences et Techniques de Tanger (FSTT)**. Mon approche du développement repose sur la rigueur acquise lors de mon **DEUST en MIP** et une volonté constante de concevoir des architectures logicielles évolutives.
 
-Mon parcours académique, débuté par un **DEUST en MIP**, m'a permis de forger une solide logique mathématique que j'applique aujourd'hui dans la conception de systèmes complexes, allant des applications web sous **Laravel** aux simulations de trafic en **C++**. Toujours curieux et polyvalent, je cherche constamment à transformer des idées complexes en solutions logicielles élégantes et efficaces.
-
----
-
-### 🛠️ Arsenal Technique
-
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Cisco-005C84?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/UML-Design-005571?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-</div>
+Spécialisé dans le développement d'applications robustes, je m'efforce de transformer des concepts techniques complexes en solutions logicielles intuitives et performantes.
 
 ---
 
-### 📂 Projets Sélectionnés
+### 💻 Expertise Technique
 
-#### 🏗️ Gestion de Data Center (Full Stack)
-Conception d'une plateforme web robuste pour l'allocation et le suivi des ressources critiques (Serveurs, VM, Stockage).
-- **Technologies :** Laravel, PHP, MySQL.
+#### ⚡ Backend & Logiciel
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-#### 🚗 Traffic Simulation Engine
-Développement d'un cœur de simulation de trafic routier réaliste avec gestion dynamique des intersections.
-- **Technologies :** C++, Logiciel Orienté Objet.
+#### 🌐 Web & Mobile
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### 📱 Mobile App Development
-Création d'interfaces et de fonctionnalités mobiles modernes (Projet en cours).
-- **Technologies :** React Native.
+#### ⚙️ Systèmes & Outils
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
+![UML](https://img.shields.io/badge/UML-Modelling-005571?style=for-the-badge) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 📊 Statistiques de Code
+### 🛠️ Projets de Référence
+
+> **Data Center Management System**
+> * Conception d'une plateforme Web sous **Laravel** pour le suivi et l'allocation des ressources informatiques (Serveurs, VM).
+> * *Focus :* Architecture MVC, gestion de base de données complexe.
+
+> **Traffic Simulation Core**
+> * Développement d'un moteur de simulation de trafic routier avec gestion dynamique des intersections.
+> * *Focus :* Programmation Orientée Objet avancée en **C++**.
+
+> **Architecture & Design Logiciel**
+> * Modélisation UML complète de systèmes bancaires et de messageries électroniques.
+> * *Focus :* Conception de diagrammes de structure et de comportement.
+
+---
+
+### 📊 Activité GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Homam-Dany&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Homam-Dany&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" height="180" />
 </div>
 
----
+<br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=33CCFF&height=100&section=footer" />
 </div>

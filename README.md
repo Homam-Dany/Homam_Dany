@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Professional Coding Animation" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello%20Internet,%20I'm%20Homam%20Dany!&fontSize=50&fontAlignY=38&animation=twinkling&desc=D%C3%A9veloppeur%20Full-Stack%20%7C%20Mobile%20%7C%203D&descAlignY=55&descAlign=50" alt="Header Bienvenue" />
 </div>
 
-<h1 align="center">Homam Dany - Ingénieur Logiciel & Développeur Full-Stack</h1>
+<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMy5/giphy.gif" width="35"> Bienvenue dans mon monde de code ! </h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -21,14 +21,14 @@
 ### 🌟 À Propos de Moi
 
 <div align="center">
-  <img align="right" width="250" src="https://media1.giphy.com/media/i8K1C8EioTzD3FEv14/giphy.gif" alt="Rocket GIF" />
+  <img align="right" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThjODBiZmJmY2QwZDgwMDUxYzVjZTI4OWU2MDdkMTUwZmMwNmI2MCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 </div>
 
 - 🔭 Je crée actuellement des **applications innovantes (Django, Laravel, React Native)** et explore les **simulations 3D (C++ & Raylib)**.
 - 🌱 Je me perfectionne constamment dans l'optimisation des **Architectures Cloud** et du rendu visuel.
 - 💡 J'adore le **Clean Code** et concevoir des **UI/UX fluides**.
 - 💬 Discutons autour de : **Python, C++, PHP (Laravel), JavaScript (React) !**
-- 📫 Contactez-moi : *[Insérez votre LinkedIn ou Email]*
+- 📫 Contactez-moi : *[Votre Email ou LinkedIn]*
 
 ---
 
@@ -99,4 +99,6 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   <sub><i>Transforming coffee into magical code ☕✨</i></sub>
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
 </div>

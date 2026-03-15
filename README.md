@@ -10,6 +10,23 @@
   </a>
 </div>
 
+<br>
+
+<div align="center">
+  <a href="https://github.com/Homam-Dany">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/homam-dany/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dany.homam@etu.uae.ac.ma">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://homam-dany.github.io/Portfolio-Homam-Dany/">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+</div>
+
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqI19wY/giphy.gif" width="100">
   <br>
@@ -28,7 +45,7 @@
 - 🌱 Je me perfectionne constamment dans l'optimisation des **Architectures Cloud** et du rendu visuel.
 - 💡 J'adore le **Clean Code** et concevoir des **UI/UX fluides**.
 - 💬 Discutons autour de : **Python, C++, PHP (Laravel), JavaScript (React) !**
-- 📫 Contactez-moi : *[Votre Email ou LinkedIn]*
+- 📫 Contactez-moi : **[dany.homam@etu.uae.ac.ma](mailto:dany.homam@etu.uae.ac.ma)** ou via mes liens !
 
 ---
 

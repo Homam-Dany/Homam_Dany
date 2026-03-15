@@ -1,104 +1,92 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hello%20Internet,%20I'm%20Homam%20Dany!&fontSize=50&fontAlignY=38&animation=twinkling&desc=D%C3%A9veloppeur%20Full-Stack%20%7C%20Mobile%20%7C%203D&descAlignY=55&descAlign=50" alt="Header Bienvenue" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Professional Coding Animation" width="100%">
 </div>
 
-<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMy5/giphy.gif" width="35"> Bienvenue dans mon monde de code ! </h1>
+<h1 align="center">Homam Dany - Ingénieur Logiciel & Développeur Full-Stack</h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Full-Stack;Passionn%C3%A9+par+la+3D+et+le+Mobile;Cr%C3%A9ateur+d'interfaces+Magiques;Toujours+en+train+d'apprendre!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=50&lines=Conception+d'architectures+robustes;Applications+Web+et+Mobiles;Simulations+3D+et+Moteurs+Graphiques" alt="Typing SVG" />
   </a>
 </div>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqI19wY/giphy.gif" width="100">
-  <br>
-  <i>Développeur créatif obsédé par l'optimisation, les belles interfaces et les algorithmes robustes. Que ce soit pour construire une API solide en Python, une application mobile en React Native ou simuler une ville entière en C++, j'aime donner vie aux idées !</i>
-</p>
+---
+
+## 👨‍💻 Profil Professionnel
+
+Ingénieur logiciel passionné par la conception et le développement de solutions technologiques complexes, performantes et évolutives. Mon expertise s'articule autour de trois axes principaux :
+- **Backend & Cloud** : Architectures robustes et APIs sécurisées (Python, Django, PHP, Laravel).
+- **Frontend & Mobile** : Interfaces utilisateur fluides et réactives (React, React Native).
+- **Simulation Routière 3D** : Moteurs interactifs et gestion de collisions (C++, Raylib).
+
+J'attache une grande importance aux principes du *Clean Code*, à la maintenabilité des systèmes et à l'optimisation des performances algorithmiques.
 
 ---
 
-### 🌟 À Propos de Moi
+## 🛠️ Expertise Technique
 
-<div align="center">
-  <img align="right" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThjODBiZmJmY2QwZDgwMDUxYzVjZTI4OWU2MDdkMTUwZmMwNmI2MCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
-</div>
-
-- 🔭 Je crée actuellement des **applications innovantes (Django, Laravel, React Native)** et explore les **simulations 3D (C++ & Raylib)**.
-- 🌱 Je me perfectionne constamment dans l'optimisation des **Architectures Cloud** et du rendu visuel.
-- 💡 J'adore le **Clean Code** et concevoir des **UI/UX fluides**.
-- 💬 Discutons autour de : **Python, C++, PHP (Laravel), JavaScript (React) !**
-- 📫 Contactez-moi : *[Votre Email ou LinkedIn]*
-
----
-
-### 🛠️ Mon Arsenal Technologique
-
-<div align="center">
-  <p>
-    <img src="https://skillicons.dev/icons?i=cpp,python,php,js,ts&theme=dark" />
-  </p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=django,laravel,react,nodejs&theme=dark" />
-  </p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=git,github,mysql,sqlite,docker&theme=dark" />
-  </p>
-  <p>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap&theme=dark" />
-  </p>
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%"><b>Langages de Programmation</b></td>
+    <td align="center" width="25%"><b>Frameworks & Librairies</b></td>
+    <td align="center" width="25%"><b>Bases de Données & Outils</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cpp,python,php,js&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=django,laravel,react,tailwind&theme=dark" /></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git,github,mysql,sqlite,docker&theme=dark" /></td>
+  </tr>
+</table>
 
 ---
 
-### 🚀 Mes Projets Épiques
+## 🚀 Réalisations Techniques
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td width="33%" align="center">
-      <h3>🏙️ Smart-City 3D</h3>
+      <h3>🏙️ Moteur 3D (Smart-City)</h3>
       <a href="https://github.com/Homam-Dany/Smart-City-3D_CPP-Raylib">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Homam-Dany&repo=Smart-City-3D_CPP-Raylib&theme=tokyonight&border_radius=15" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Homam-Dany&repo=Smart-City-3D_CPP-Raylib&theme=dracula&border_radius=10" />
       </a>
-      <p><i>Simulation C++/Raylib d'une ville connectée dynamique avec IA.</i></p>
+      <p><i>Système de simulation urbaine en C++ intégrant de l'algorithmique avancée pour la gestion des collisions et du trafic.</i></p>
     </td>
     <td width="33%" align="center">
-      <h3>🌐 Écosystème Django</h3>
+      <h3>🌐 Architecture Web Django</h3>
       <a href="https://github.com/Homam-Dany/Project_Django">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Homam-Dany&repo=Project_Django&theme=tokyonight&border_radius=15" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Homam-Dany&repo=Project_Django&theme=dracula&border_radius=10" />
       </a>
-      <p><i>Architecture Web Back-End robuste et sécurisée avec Python.</i></p>
+      <p><i>Conception complète d'un Back-End Python sécurisé (Authentification, Modèles relationnels, et Sécurité).</i></p>
     </td>
     <td width="33%" align="center">
-      <h3>📱 Dev. React Native</h3>
+      <h3>📱 Écosystème React Native</h3>
       <a href="https://github.com/Homam-Dany/Developpement-Mobile_React-Native">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Homam-Dany&repo=Developpement-Mobile_React-Native&theme=tokyonight&border_radius=15" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Homam-Dany&repo=Developpement-Mobile_React-Native&theme=dracula&border_radius=10" />
       </a>
-      <p><i>Interfaces mobiles élégantes et fluides cross-platform.</i></p>
+      <p><i>Développement d'interfaces mobiles cross-platform complexes et performantes.</i></p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 Mes Statistiques GitHub
+## 📊 Activité GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Homam-Dany&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Homam-Dany&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Homam-Dany&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Homam-Dany&theme=dracula&hide_border=true" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Homam-Dany&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Homam-Dany&layout=compact&theme=dracula&hide_border=true" width="60%" />
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  <sub><i>Transforming coffee into magical code ☕✨</i></sub>
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
-</div>
+<p align="center">
+  <i>"La simplicité est la sophistication suprême."</i>
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" />
+</p>

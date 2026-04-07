@@ -44,7 +44,7 @@
 - 🔭 Je crée actuellement des *applications innovantes (Django, Laravel, React Native)* et explore les *simulations 3D (C++ & Raylib)*.
 - 🌱 Je me perfectionne constamment dans l'optimisation des *Architectures Cloud* et du rendu visuel.
 - 💡 J'adore le *Clean Code* et concevoir des *UI/UX fluides*.
-- 💬 Discutons autour de : *Python, C++, PHP, JavaScript (React) et Java !*
+- 💬 Discutons autour de : *Python, C++, PHP (Laravel), JavaScript (React) !*
 - 📫 Contactez-moi : *[dany.homam@etu.uae.ac.ma](mailto:dany.homam@etu.uae.ac.ma)* ou via mes liens !
 
 ---
@@ -68,83 +68,176 @@
 
 ---
 
-### 🚀 Mes Projets Épiques
+### 🚀 Mes Projets Épiques & Statistiques
 
-<table align="center">
+<table align="center" width="100%">
+  <!-- LIGNE 1 -->
   <tr>
-    <td width="33%" align="center">
-      <h3>🏙️ Smart-City 3D</h3>
+    <td width="50%" align="center">
       <a href="https://github.com/Homam-Dany/Smart-City-3D_CPP-Raylib">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Homam-Dany&repo=Smart-City-3D_CPP-Raylib&theme=tokyonight&border_radius=15" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Homam-Dany&repo=Smart-City-3D_CPP-Raylib&theme=tokyonight&border_radius=10" width="100%" />
       </a>
-      <p><i>Simulation C++/Raylib d'une ville connectée dynamique avec IA.</i></p>
+      <br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C++-98%25-00599C?style=flat-square&logo=c%2B%2B" />
+        <img src="https://img.shields.io/badge/Raylib-2%25-white?style=flat-square&logo=raylib&logoColor=black" />
+        <br/>
+        <img src="https://img.shields.io/github/stars/Homam-Dany/Smart-City-3D_CPP-Raylib?style=flat-square&logo=github&color=eab676" />
+        <img src="https://img.shields.io/github/forks/Homam-Dany/Smart-City-3D_CPP-Raylib?style=flat-square&logo=github&color=87c2a5" />
+        <img src="https://img.shields.io/github/repo-size/Homam-Dany/Smart-City-3D_CPP-Raylib?style=flat-square&logo=github&color=78aed3" />
+      </p>
     </td>
-    <td width="33%" align="center">
-      <h3>🎓 Gestion Scolaire</h3>
+    <td width="50%" align="center">
       <a href="https://github.com/Homam-Dany/Application_Web_Systeme_De_Gestion_Scolaire">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Homam-Dany&repo=Application_Web_Systeme_De_Gestion_Scolaire&theme=tokyonight&border_radius=15" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Homam-Dany&repo=Application_Web_Systeme_De_Gestion_Scolaire&theme=tokyonight&border_radius=10" width="100%" />
       </a>
-      <p><i>Application Web back-end Python robuste (Écosystème Django).</i></p>
-    </td>
-    <td width="33%" align="center">
-      <h3>☁️ Web DataCenter</h3>
-      <a href="https://github.com/Homam-Dany/Application_Web_DataCenter">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Homam-Dany&repo=Application_Web_DataCenter&theme=tokyonight&border_radius=15" />
-      </a>
-      <p><i>Plateforme web pour la gestion et le suivi en Data Center.</i></p>
+      <br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-45%25-3776AB?style=flat-square&logo=python" />
+        <img src="https://img.shields.io/badge/HTML-35%25-E34F26?style=flat-square&logo=html5" />
+        <img src="https://img.shields.io/badge/CSS/JS-20%25-1572B6?style=flat-square&logo=javascript" />
+        <br/>
+        <img src="https://img.shields.io/github/stars/Homam-Dany/Application_Web_Systeme_De_Gestion_Scolaire?style=flat-square&logo=github&color=eab676" />
+        <img src="https://img.shields.io/github/forks/Homam-Dany/Application_Web_Systeme_De_Gestion_Scolaire?style=flat-square&logo=github&color=87c2a5" />
+        <img src="https://img.shields.io/github/repo-size/Homam-Dany/Application_Web_Systeme_De_Gestion_Scolaire?style=flat-square&logo=github&color=78aed3" />
+      </p>
     </td>
   </tr>
+  
+  <!-- LIGNE 2 -->
   <tr>
-    <td width="33%" align="center">
-      <h3>📱 Dev. React Native</h3>
-      <a href="https://github.com/Homam-Dany/Developpement-Mobile_React-Native">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Homam-Dany&repo=Developpement-Mobile_React-Native&theme=tokyonight&border_radius=15" />
-      </a>
-      <p><i>Interfaces mobiles élégantes et fluides cross-platform.</i></p>
-    </td>
-    <td width="33%" align="center">
-      <h3>🌐 Web Avancé Python</h3>
-      <a href="https://github.com/Homam-Dany/Developpement-web-avance_Python">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Homam-Dany&repo=Developpement-web-avance_Python&theme=tokyonight&border_radius=15" />
-      </a>
-      <p><i>Exploration d'architectures back-end web en Python.</i></p>
-    </td>
-    <td width="33%" align="center">
-      <h3>🐍 Project Django</h3>
+    <td width="50%" align="center">
       <a href="https://github.com/Homam-Dany/Project_Django">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Homam-Dany&repo=Project_Django&theme=tokyonight&border_radius=15" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Homam-Dany&repo=Project_Django&theme=tokyonight&border_radius=10" width="100%" />
       </a>
-      <p><i>Développement approfondi avec le framework Django.</i></p>
+      <br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-70%25-3776AB?style=flat-square&logo=python" />
+        <img src="https://img.shields.io/badge/HTML-20%25-E34F26?style=flat-square&logo=html5" />
+        <img src="https://img.shields.io/badge/CSS-10%25-1572B6?style=flat-square&logo=css3" />
+        <br/>
+        <img src="https://img.shields.io/github/stars/Homam-Dany/Project_Django?style=flat-square&logo=github&color=eab676" />
+        <img src="https://img.shields.io/github/forks/Homam-Dany/Project_Django?style=flat-square&logo=github&color=87c2a5" />
+        <img src="https://img.shields.io/github/repo-size/Homam-Dany/Project_Django?style=flat-square&logo=github&color=78aed3" />
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Homam-Dany/Developpement-Mobile_React-Native">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Homam-Dany&repo=Developpement-Mobile_React-Native&theme=tokyonight&border_radius=10" width="100%" />
+      </a>
+      <br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React_Native-85%25-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/Java-15%25-ED8B00?style=flat-square&logo=openjdk" />
+        <br/>
+        <img src="https://img.shields.io/github/stars/Homam-Dany/Developpement-Mobile_React-Native?style=flat-square&logo=github&color=eab676" />
+        <img src="https://img.shields.io/github/forks/Homam-Dany/Developpement-Mobile_React-Native?style=flat-square&logo=github&color=87c2a5" />
+        <img src="https://img.shields.io/github/repo-size/Homam-Dany/Developpement-Mobile_React-Native?style=flat-square&logo=github&color=78aed3" />
+      </p>
     </td>
   </tr>
+
+  <!-- LIGNE 3 -->
   <tr>
-    <td width="33%" align="center">
-      <h3>☕ POO Java</h3>
+    <td width="50%" align="center">
+      <a href="https://github.com/Homam-Dany/Application_Web_DataCenter">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Homam-Dany&repo=Application_Web_DataCenter&theme=tokyonight&border_radius=10" width="100%" />
+      </a>
+      <br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP_(Blade)-65%25-777BB4?style=flat-square&logo=php" />
+        <img src="https://img.shields.io/badge/HTML/CSS-25%25-E34F26?style=flat-square&logo=html5" />
+        <img src="https://img.shields.io/badge/JS-10%25-F7DF1E?style=flat-square&logo=javascript" />
+        <br/>
+        <img src="https://img.shields.io/github/stars/Homam-Dany/Application_Web_DataCenter?style=flat-square&logo=github&color=eab676" />
+        <img src="https://img.shields.io/github/forks/Homam-Dany/Application_Web_DataCenter?style=flat-square&logo=github&color=87c2a5" />
+        <img src="https://img.shields.io/github/repo-size/Homam-Dany/Application_Web_DataCenter?style=flat-square&logo=github&color=78aed3" />
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Homam-Dany/Developpement-web-avance_Python">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Homam-Dany&repo=Developpement-web-avance_Python&theme=tokyonight&border_radius=10" width="100%" />
+      </a>
+      <br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-80%25-3776AB?style=flat-square&logo=python" />
+        <img src="https://img.shields.io/badge/HTML-20%25-E34F26?style=flat-square&logo=html5" />
+        <br/>
+        <img src="https://img.shields.io/github/stars/Homam-Dany/Developpement-web-avance_Python?style=flat-square&logo=github&color=eab676" />
+        <img src="https://img.shields.io/github/forks/Homam-Dany/Developpement-web-avance_Python?style=flat-square&logo=github&color=87c2a5" />
+        <img src="https://img.shields.io/github/repo-size/Homam-Dany/Developpement-web-avance_Python?style=flat-square&logo=github&color=78aed3" />
+      </p>
+    </td>
+  </tr>
+
+  <!-- LIGNE 4 -->
+  <tr>
+    <td width="50%" align="center">
       <a href="https://github.com/Homam-Dany/Programmation-Orientee-Objet_JAVA">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Homam-Dany&repo=Programmation-Orientee-Objet_JAVA&theme=tokyonight&border_radius=15" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Homam-Dany&repo=Programmation-Orientee-Objet_JAVA&theme=tokyonight&border_radius=10" width="100%" />
       </a>
-      <p><i>Concepts avancés de Programmation Orientée Objet.</i></p>
+      <br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Java-100%25-ED8B00?style=flat-square&logo=openjdk" />
+        <br/>
+        <img src="https://img.shields.io/github/stars/Homam-Dany/Programmation-Orientee-Objet_JAVA?style=flat-square&logo=github&color=eab676" />
+        <img src="https://img.shields.io/github/forks/Homam-Dany/Programmation-Orientee-Objet_JAVA?style=flat-square&logo=github&color=87c2a5" />
+        <img src="https://img.shields.io/github/repo-size/Homam-Dany/Programmation-Orientee-Objet_JAVA?style=flat-square&logo=github&color=78aed3" />
+      </p>
     </td>
-    <td width="33%" align="center">
-      <h3>🛠️ POO C++</h3>
+    <td width="50%" align="center">
       <a href="https://github.com/Homam-Dany/Programmation-Orientee-Objet_CPP">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Homam-Dany&repo=Programmation-Orientee-Objet_CPP&theme=tokyonight&border_radius=15" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Homam-Dany&repo=Programmation-Orientee-Objet_CPP&theme=tokyonight&border_radius=10" width="100%" />
       </a>
-      <p><i>Algorithmique robuste et mémoire en C++ natif.</i></p>
+      <br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C++-100%25-00599C?style=flat-square&logo=c%2B%2B" />
+        <br/>
+        <img src="https://img.shields.io/github/stars/Homam-Dany/Programmation-Orientee-Objet_CPP?style=flat-square&logo=github&color=eab676" />
+        <img src="https://img.shields.io/github/forks/Homam-Dany/Programmation-Orientee-Objet_CPP?style=flat-square&logo=github&color=87c2a5" />
+        <img src="https://img.shields.io/github/repo-size/Homam-Dany/Programmation-Orientee-Objet_CPP?style=flat-square&logo=github&color=78aed3" />
+      </p>
     </td>
-    <td width="33%" align="center">
-      <h3>💻 Web Fondamentals</h3>
+  </tr>
+
+  <!-- LIGNE 5 -->
+  <tr>
+    <td width="50%" align="center">
       <a href="https://github.com/Homam-Dany/Developpement-Web_HTML-CSS-JS-PHP">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Homam-Dany&repo=Developpement-Web_HTML-CSS-JS-PHP&theme=tokyonight&border_radius=15" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Homam-Dany&repo=Developpement-Web_HTML-CSS-JS-PHP&theme=tokyonight&border_radius=10" width="100%" />
       </a>
-      <p><i>Projets purs construits avec HTML, CSS, JS et PHP.</i></p>
+      <br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP-40%25-777BB4?style=flat-square&logo=php" />
+        <img src="https://img.shields.io/badge/JS-30%25-F7DF1E?style=flat-square&logo=javascript" />
+        <img src="https://img.shields.io/badge/HTML/CSS-30%25-E34F26?style=flat-square&logo=html5" />
+        <br/>
+        <img src="https://img.shields.io/github/stars/Homam-Dany/Developpement-Web_HTML-CSS-JS-PHP?style=flat-square&logo=github&color=eab676" />
+        <img src="https://img.shields.io/github/forks/Homam-Dany/Developpement-Web_HTML-CSS-JS-PHP?style=flat-square&logo=github&color=87c2a5" />
+        <img src="https://img.shields.io/github/repo-size/Homam-Dany/Developpement-Web_HTML-CSS-JS-PHP?style=flat-square&logo=github&color=78aed3" />
+      </p>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/Homam-Dany/Portfolio-Homam-Dany">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Homam-Dany&repo=Portfolio-Homam-Dany&theme=tokyonight&border_radius=10" width="100%" />
+      </a>
+      <br/>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML-50%25-E34F26?style=flat-square&logo=html5" />
+        <img src="https://img.shields.io/badge/CSS-35%25-1572B6?style=flat-square&logo=css3" />
+        <img src="https://img.shields.io/badge/JS-15%25-F7DF1E?style=flat-square&logo=javascript" />
+        <br/>
+        <img src="https://img.shields.io/github/stars/Homam-Dany/Portfolio-Homam-Dany?style=flat-square&logo=github&color=eab676" />
+        <img src="https://img.shields.io/github/forks/Homam-Dany/Portfolio-Homam-Dany?style=flat-square&logo=github&color=87c2a5" />
+        <img src="https://img.shields.io/github/repo-size/Homam-Dany/Portfolio-Homam-Dany?style=flat-square&logo=github&color=78aed3" />
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 Mes Statistiques GitHub
+### 📊 Mes Statistiques GitHub Globales
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Homam-Dany&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
@@ -165,3 +258,4 @@
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
 </div>
+

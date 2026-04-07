@@ -68,103 +68,119 @@
 
 ---
 
-### 🚀 Mes Projets Épiques & Statistiques
+### 🚀 Mes Projets Épiques
 
 <div align="center">
 <table width="100%">
   <!-- LIGNE 1 -->
   <tr>
-    <td width="50%" align="center">
-      <h3>🏙️ Smart-City 3D</h3>
-      <a href="https://github.com/Homam-Dany/Smart-City-3D_CPP-Raylib">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Homam-Dany&repo=Smart-City-3D_CPP-Raylib&theme=tokyonight&border_radius=10" height="120" />
-      </a><br/><br/>
-      <img src="https://img.shields.io/badge/C++-98%25-00599C?style=flat-square&logo=c%2B%2B" />
-      <img src="https://img.shields.io/badge/Raylib-2%25-white?style=flat-square&logo=raylib&logoColor=black" /><br/>
-      <img src="https://img.shields.io/github/stars/Homam-Dany/Smart-City-3D_CPP-Raylib?style=flat-square&logo=github&color=eab676" />
-      <img src="https://img.shields.io/github/forks/Homam-Dany/Smart-City-3D_CPP-Raylib?style=flat-square&logo=github&color=87c2a5" />
+    <td width="50%" align="center" valign="top">
+      <br>
+      <h2><a href="https://github.com/Homam-Dany/Smart-City-3D_CPP-Raylib">🏙️ Smart-City 3D</a></h2>
+      <p><i>Simulation C++/Raylib d'une ville connectée dynamique avec système d'Intelligence Artificielle.</i></p>
+      <br>
+      <img src="https://img.shields.io/badge/C++-98%25-00599C?style=for-the-badge&logo=c%2B%2B" />
+      <img src="https://img.shields.io/badge/Raylib-2%25-black?style=for-the-badge&logo=raylib&logoColor=white" />
+      <br><br>
     </td>
-    <td width="50%" align="center">
-      <h3>🎓 Gestion Scolaire Django</h3>
-      <a href="https://github.com/Homam-Dany/Application_Web_Systeme_De_Gestion_Scolaire">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Homam-Dany&repo=Application_Web_Systeme_De_Gestion_Scolaire&theme=tokyonight&border_radius=10" height="120" />
-      </a><br/><br/>
-      <img src="https://img.shields.io/badge/Python-45%25-3776AB?style=flat-square&logo=python" />
-      <img src="https://img.shields.io/badge/HTML-35%25-E34F26?style=flat-square&logo=html5" />
-      <img src="https://img.shields.io/badge/CSS/JS-20%25-1572B6?style=flat-square&logo=javascript" /><br/>
-      <img src="https://img.shields.io/github/stars/Homam-Dany/Application_Web_Systeme_De_Gestion_Scolaire?style=flat-square&logo=github&color=eab676" />
-      <img src="https://img.shields.io/github/forks/Homam-Dany/Application_Web_Systeme_De_Gestion_Scolaire?style=flat-square&logo=github&color=87c2a5" />
+    <td width="50%" align="center" valign="top">
+      <br>
+      <h2><a href="https://github.com/Homam-Dany/Application_Web_Systeme_De_Gestion_Scolaire">🎓 Gestion Scolaire</a></h2>
+      <p><i>Application Web back-end Python robuste pour administrer une école (Écosystème Django).</i></p>
+      <br>
+      <img src="https://img.shields.io/badge/Python-45%25-3776AB?style=for-the-badge&logo=python" />
+      <img src="https://img.shields.io/badge/HTML-35%25-E34F26?style=for-the-badge&logo=html5" />
+      <img src="https://img.shields.io/badge/CSS/JS-20%25-1572B6?style=for-the-badge&logo=javascript" />
+      <br><br>
     </td>
   </tr>
   
   <!-- LIGNE 2 -->
   <tr>
-    <td width="50%" align="center">
-      <h3>🐍 Project Django Adv.</h3>
-      <a href="https://github.com/Homam-Dany/Project_Django">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Homam-Dany&repo=Project_Django&theme=tokyonight&border_radius=10" height="120" />
-      </a><br/><br/>
-      <img src="https://img.shields.io/badge/Python-70%25-3776AB?style=flat-square&logo=python" />
-      <img src="https://img.shields.io/badge/HTML/CSS-30%25-E34F26?style=flat-square&logo=html5" /><br/>
-      <img src="https://img.shields.io/github/stars/Homam-Dany/Project_Django?style=flat-square&logo=github&color=eab676" />
-      <img src="https://img.shields.io/github/forks/Homam-Dany/Project_Django?style=flat-square&logo=github&color=87c2a5" />
+    <td width="50%" align="center" valign="top">
+      <br>
+      <h2><a href="https://github.com/Homam-Dany/Project_Django">🐍 Project Django Adv.</a></h2>
+      <p><i>Développement approfondi des fonctionnalités et de l'architecture du framework Django.</i></p>
+      <br>
+      <img src="https://img.shields.io/badge/Python-70%25-3776AB?style=for-the-badge&logo=python" />
+      <img src="https://img.shields.io/badge/HTML_/_CSS-30%25-E34F26?style=for-the-badge&logo=html5" />
+      <br><br>
     </td>
-    <td width="50%" align="center">
-      <h3>📱 Dev. React Native</h3>
-      <a href="https://github.com/Homam-Dany/Developpement-Mobile_React-Native">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Homam-Dany&repo=Developpement-Mobile_React-Native&theme=tokyonight&border_radius=10" height="120" />
-      </a><br/><br/>
-      <img src="https://img.shields.io/badge/React_Native-85%25-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Java-15%25-ED8B00?style=flat-square&logo=openjdk" /><br/>
-      <img src="https://img.shields.io/github/stars/Homam-Dany/Developpement-Mobile_React-Native?style=flat-square&logo=github&color=eab676" />
-      <img src="https://img.shields.io/github/forks/Homam-Dany/Developpement-Mobile_React-Native?style=flat-square&logo=github&color=87c2a5" />
+    <td width="50%" align="center" valign="top">
+      <br>
+      <h2><a href="https://github.com/Homam-Dany/Developpement-Mobile_React-Native">📱 Dev. React Native</a></h2>
+      <p><i>Création d'interfaces mobiles élégantes, performantes et fluides orientées cross-platform.</i></p>
+      <br>
+      <img src="https://img.shields.io/badge/React_Native-85%25-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Java-15%25-ED8B00?style=for-the-badge&logo=openjdk" />
+      <br><br>
     </td>
   </tr>
 
   <!-- LIGNE 3 -->
   <tr>
-    <td width="50%" align="center">
-      <h3>☁️ Web DataCenter</h3>
-      <a href="https://github.com/Homam-Dany/Application_Web_DataCenter">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Homam-Dany&repo=Application_Web_DataCenter&theme=tokyonight&border_radius=10" height="120" />
-      </a><br/><br/>
-      <img src="https://img.shields.io/badge/PHP_(Blade)-65%25-777BB4?style=flat-square&logo=php" />
-      <img src="https://img.shields.io/badge/HTML/CSS-25%25-E34F26?style=flat-square&logo=html5" />
-      <img src="https://img.shields.io/badge/JS-10%25-F7DF1E?style=flat-square&logo=javascript" /><br/>
-      <img src="https://img.shields.io/github/stars/Homam-Dany/Application_Web_DataCenter?style=flat-square&logo=github&color=eab676" />
-      <img src="https://img.shields.io/github/forks/Homam-Dany/Application_Web_DataCenter?style=flat-square&logo=github&color=87c2a5" />
+    <td width="50%" align="center" valign="top">
+      <br>
+      <h2><a href="https://github.com/Homam-Dany/Application_Web_DataCenter">☁️ Web DataCenter</a></h2>
+      <p><i>Plateforme web complète et responsive pour la gestion et la surveillance en Data Center.</i></p>
+      <br>
+      <img src="https://img.shields.io/badge/PHP_Blade-65%25-777BB4?style=for-the-badge&logo=php" />
+      <img src="https://img.shields.io/badge/HTML_/_CSS-25%25-E34F26?style=for-the-badge&logo=html5" />
+      <img src="https://img.shields.io/badge/JS-10%25-F7DF1E?style=for-the-badge&logo=javascript" />
+      <br><br>
     </td>
-    <td width="50%" align="center">
-      <h3>🌐 Python Avancé</h3>
-      <a href="https://github.com/Homam-Dany/Developpement-web-avance_Python">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Homam-Dany&repo=Developpement-web-avance_Python&theme=tokyonight&border_radius=10" height="120" />
-      </a><br/><br/>
-      <img src="https://img.shields.io/badge/Python-80%25-3776AB?style=flat-square&logo=python" />
-      <img src="https://img.shields.io/badge/HTML-20%25-E34F26?style=flat-square&logo=html5" /><br/>
-      <img src="https://img.shields.io/github/stars/Homam-Dany/Developpement-web-avance_Python?style=flat-square&logo=github&color=eab676" />
-      <img src="https://img.shields.io/github/forks/Homam-Dany/Developpement-web-avance_Python?style=flat-square&logo=github&color=87c2a5" />
+    <td width="50%" align="center" valign="top">
+      <br>
+      <h2><a href="https://github.com/Homam-Dany/Developpement-web-avance_Python">🌐 Python Avancé</a></h2>
+      <p><i>Exploration poussée d'architectures back-end web et de flux de données en Python.</i></p>
+      <br>
+      <img src="https://img.shields.io/badge/Python-80%25-3776AB?style=for-the-badge&logo=python" />
+      <img src="https://img.shields.io/badge/HTML-20%25-E34F26?style=for-the-badge&logo=html5" />
+      <br><br>
     </td>
   </tr>
 
   <!-- LIGNE 4 -->
   <tr>
-    <td width="50%" align="center">
-      <h3>☕ POO JAVA</h3>
-      <a href="https://github.com/Homam-Dany/Programmation-Orientee-Objet_JAVA">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Homam-Dany&repo=Programmation-Orientee-Objet_JAVA&theme=tokyonight&border_radius=10" height="120" />
-      </a><br/><br/>
-      <img src="https://img.shields.io/badge/Java-100%25-ED8B00?style=flat-square&logo=openjdk" /><br/>
-      <img src="https://img.shields.io/github/stars/Homam-Dany/Programmation-Orientee-Objet_JAVA?style=flat-square&logo=github&color=eab676" />
-      <img src="https://img.shields.io/github/forks/Homam-Dany/Programmation-Orientee-Objet_JAVA?style=flat-square&logo=github&color=87c2a5" />
+    <td width="50%" align="center" valign="top">
+      <br>
+      <h2><a href="https://github.com/Homam-Dany/Programmation-Orientee-Objet_JAVA">☕ POO JAVA</a></h2>
+      <p><i>Concepts algorithmiques complexes et structures de données appliqués en Java.</i></p>
+      <br>
+      <img src="https://img.shields.io/badge/Java-100%25-ED8B00?style=for-the-badge&logo=openjdk" />
+      <br><br>
     </td>
-    <td width="50%" align="center">
-      <h3>🛠️ POO C++</h3>
-      <a href="https://github.com/Homam-Dany/Programmation-Orientee-Objet_CPP">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Homam-Dany&repo=Programmation-Orientee-Objet_CPP&theme=tokyonight&border_radius=10" height="120" />
-      </a><br/><br/>
-      <img src="https://img.shields.io/badge/C++-100%25-00599C?style=flat-square&logo=c%2B%2B" /><br/>
-      <img src="https://img.shields.io/github/stars/Homam-Dany/Programmation-Orientee-Objet_CPP?style=flat-square&logo=github&color=eab676" />
-      <img src="https://img.shields.io/github/forks/Homam-Dany/Programmation-Orientee-Objet_CPP?style=flat-square&logo=github&color=87c2a5" />
+    <td width="50%" align="center" valign="top">
+      <br>
+      <h2><a href="https://github.com/Homam-Dany/Programmation-Orientee-Objet_CPP">🛠️ POO C++</a></h2>
+      <p><i>Manipulations en profondeur de la mémoire et objets développés en C++ natif.</i></p>
+      <br>
+      <img src="https://img.shields.io/badge/C++-100%25-00599C?style=for-the-badge&logo=c%2B%2B" />
+      <br><br>
+    </td>
+  </tr>
+
+  <!-- LIGNE 5 -->
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <br>
+      <h2><a href="https://github.com/Homam-Dany/Developpement-Web_HTML-CSS-JS-PHP">💻 Web Fondamentals</a></h2>
+      <p><i>Projets construits from scratch avec les fondations essentielles du Web.</i></p>
+      <br>
+      <img src="https://img.shields.io/badge/PHP-40%25-777BB4?style=for-the-badge&logo=php" />
+      <img src="https://img.shields.io/badge/JS-30%25-F7DF1E?style=for-the-badge&logo=javascript" />
+      <img src="https://img.shields.io/badge/HTML_/_CSS-30%25-E34F26?style=for-the-badge&logo=html5" />
+      <br><br>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <br>
+      <h2><a href="https://github.com/Homam-Dany/Portfolio-Homam-Dany">🎨 Portfolio Interactif</a></h2>
+      <p><i>Le code source de mon portfolio web personnel présentant mes compétences.</i></p>
+      <br>
+      <img src="https://img.shields.io/badge/HTML-50%25-E34F26?style=for-the-badge&logo=html5" />
+      <img src="https://img.shields.io/badge/CSS-35%25-1572B6?style=for-the-badge&logo=css3" />
+      <img src="https://img.shields.io/badge/JS-15%25-F7DF1E?style=for-the-badge&logo=javascript" />
+      <br><br>
     </td>
   </tr>
 </table>

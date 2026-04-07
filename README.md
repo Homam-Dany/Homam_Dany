@@ -191,15 +191,24 @@
 ### 📊 Mes Statistiques GitHub Globales
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Homam-Dany&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Homam-Dany&theme=tokyonight&hide_border=true" width="48%" />
+  <!-- Trophées GitHub (Générés dynamiquement selon vos contributions) -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Homam-Dany&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Trophées Homam Dany" />
 </div>
 
-<br>
+<br><br>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Homam-Dany&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
-</div>
+<table width="100%" style="border:none;">
+  <tr>
+    <td width="30%" align="center" style="border:none;">
+      <!-- La série de code (Streak) qui fonctionne parfaitement -->
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Homam-Dany&theme=tokyonight&hide_border=true" width="100%" alt="Série de commits" />
+    </td>
+    <td width="70%" align="center" style="border:none;">
+      <!-- Un magnifique Graphe d'Activité sur 30 jours (animé) ! -->
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Homam-Dany&bg_color=1a1b27&color=7aa2f7&line=394b70&point=7aa2f7&area=true&hide_border=true&custom_title=Graphe%20d'Activité%20Récent" width="100%" alt="Graphe d'activité GitHub" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -209,3 +218,4 @@
   <br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
 </div>
+
